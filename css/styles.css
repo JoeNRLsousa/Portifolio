@@ -600,6 +600,7 @@ progress {
 .img-fluid {
   max-width: 100%;
   height: auto;
+
 }
 
 .img-thumbnail {
@@ -609,6 +610,13 @@ progress {
   border-radius: 0.375rem;
   max-width: 100%;
   height: auto;
+}
+
+.img-thumb2 {
+  max-width: 100%;
+  height: auto;
+  width: 320px;
+  height: 420px;
 }
 
 .figure {
