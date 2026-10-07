@@ -1,1 +1,1 @@
-https://joenrlsousa.github.io/Portifolio/
+https://github.com/JoeNRLsousa/Portifolio.git
